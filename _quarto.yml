@@ -2,18 +2,49 @@ project:
   type: website
   output-dir: "docs"
 website:
-  title: "Blog"
+  title: "Tom Baladrón"
+  site-url: "https://tombaladron.com"
+  page-footer:
+    left: "Sitio web creado con [Quarto](https://quarto.org/), por Tom Baladrón. License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)."
+    right:
+      - icon: github
+        href: https://github.com/psynguin
+      - icon: linkedin
+        href: https://www.linkedin.com/in/tom-baladr%C3%B3n-733642145/
   navbar:
     right:
-      - about.qmd
+      - text: About
+        menu:
+          - text: Español
+            href: about-es.qmd
+          - text: English
+            href: about-en.qmd
+      - text: Posts
+        menu:
+          - text: Todos
+            href: posts/index.qmd
+          - text: Psicología Clínica
+            href: posts/index.qmd
+          - text: Psicometría
+            href: posts/index.qmd
+          - text: Programación
+            href: posts/index.qmd
+      - text: Libros
+        href: libros.qmd
+      - text: Proyectos
+        href: proyectos.qmd
       - icon: github
         href: https://github.com/
       - icon: twitter
         href: https://twitter.com
+
+lang: es
+
 format:
   html:
+    link-external-icon: true
+    link-external-newwindow: true
+    smooth-scroll: true
     theme: cosmo
     css: styles.css
-
-
 
