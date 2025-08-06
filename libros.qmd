@@ -5,9 +5,9 @@ editor: visual
 
 # Libros de psicometría y código
 
-[Inducción UA](https://youtu.be/dQw4w9WgXcQ?si=vYDgj3Lqr1SXcEzB) es un libro introductorio que pretende iniciar a un analista en las labores psicométricas y de códigos de la unidad a la que pertenezco. Este libro fue realizado por iniciativa propia y en ningún caso es un documento oficial.
+[Inducción UA](https://psynguin.github.io/InduccionUA/) es un libro introductorio que pretende iniciar a un analista en las labores psicométricas y de códigos de la unidad a la que pertenezco. Este libro fue realizado por iniciativa propia y en ningún caso es un documento oficial.
 
-[Enciclopedia código R](https://youtu.be/dQw4w9WgXcQ?si=vYDgj3Lqr1SXcEzB) es un libro que aborda el uso y aprendizajes sobre R base y diversos paquetes que utilizo en mi día a día.
+[Enciclopedia código R](https://psynguin.github.io/enciclopediaR/) es un libro que aborda el uso y aprendizajes sobre R base y diversos paquetes que utilizo en mi día a día.
 
 # Libros de psicología clínica
 
@@ -16,4 +16,3 @@ editor: visual
 [PAP-ABCDE](https://youtu.be/dQw4w9WgXcQ?si=vYDgj3Lqr1SXcEzB) es un libro sobre el modelo ABCDE de la Pontificia Universidad Católica de Chile.
 
 [Terapia de Aceptación y Compromiso](https://youtu.be/dQw4w9WgXcQ?si=vYDgj3Lqr1SXcEzB) es un libro sobre qué es el ACT pensando en la perspectiva y necesidad de un paciente.
-
